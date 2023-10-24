@@ -1,1 +1,1 @@
-command: ['ffmpeg', '-i', '/media/mdai/Data_House_3/projects/motionBERT/projects/robotdance/dataset/src/Amazing Robot Dance Battle _ Robot Vall.mp4', '-ss', '25', '-to', '55', '-q:v', '0', '-y', '/media/mdai/Data_House_3/projects/motionBERT/projects/robotdance/dataset/video.mp4']
+
