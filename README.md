@@ -2,9 +2,9 @@
 
 ## Pose estimation with motionBERT
 
-This is a pet project for 3D pose recovery given a 2D video applied in table tennis teaching.
+This is a pet project for 3D pose recovery for table tennis teaching.
 
-Compare student's pose with a teacher's pose.
+It compare student's pose with a teacher's pose, and output a score base on similarity in positino and speed.
 
 Core pose recovery processes come from motionBERT and Alphapose.
 
