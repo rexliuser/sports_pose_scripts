@@ -14,7 +14,7 @@ Input video: https://www.youtube.com/watch?v=Ex5E1iLzsSw
 
 Output: 
 
-![Animation](score.gif)
+![Animation](scores.gif)
 
 (Hit moment is automatically detected based on speed of hand motion.)
 
